@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="browse">Browse</string>
+    <string name="account">Account</string>
+    <string name="get_started">Get Started</string>
+    <string name="digilocker_issues_original_digital_document_as_per_it_act_2000">DigiLocker issues original digital document as per IT Act 2000</string>
+    <string name="digilocker_is_the_best">Digilocker is the best</string>
+    <string name="digilocker_is_valid_everywhere">Digilocker documents are valid everywhere</string>
+    <string name="popular_documents">Popular Documents</string>
+    <string name="preview">Preview</string>
+    <string name="aadhaar_card">Aadhaar Card</string>
+    <string name="driving_license">Driving License</string>
+    <string name="pan_card">PAN Card</string>
+    <string name="vehicle_registration">Vehicle Registration</string>
+    <string name="voter_id_card">Voter ID card</string>
+    <string name="passport">Passport</string>
+    <string name="domicile_certificate">Domicile Certificate</string>
+    <string name="read_more">Read More...</string>
 </resources>
